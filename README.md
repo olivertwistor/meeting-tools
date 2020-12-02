@@ -1,21 +1,20 @@
 # Meeting Tools
+This application provides various tools to be used before, during and after 
+meetings.
 
-## Table of contents
-* [Background](#background)
-* [Purpose](#purpose)
-* [Goal](#goal)
-* [Stakeholders](#stakeholders)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Licensing](#licensing)
 
-## Background
-Whenever I have been a secretary at a meeting I have been forced to make ad-hoc 
-solutions for agendas and meeting minutes. I don't like ad-hoc solutions 
-&mdash; I want systems and models with the things I do.
+## Installation
+More info is coming with the first release.
 
-## Purpose
-## Goal
-## Stakeholders
-## Licenses
-### Third-party licenses
+## Usage
+More info is coming with the first release.
+
+## Licensing
+This application is licensed under the MIT License. For detailed license terms, 
+please read [LICENSE][1].
+
 
 [1]: LICENSE
-[2]: 3rd-party-licenses.txt
